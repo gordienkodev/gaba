@@ -53,4 +53,12 @@ npm run build
 
 Стили карточки вынесены в отдельный CSS-модуль, потому что они относятся только к компоненту `UserCard`. Стили самого дашборда остались отдельно: там находится контейнер страницы и сетка карточек. Так стили компонентов не смешиваются между собой.
 
+mobile
+<img width="375" height="667" alt="image" src="https://github.com/user-attachments/assets/d92876df-0df9-48df-9d7c-f2f2704fa4a9" />
+desktop
+<img width="878" height="1141" alt="image" src="https://github.com/user-attachments/assets/00954b55-2686-4751-b8db-95e297bfa73d" />
+
+
+
+
 Адрес API вынесен в `.env.example`, чтобы базовый URL можно было поменять без изменения кода.
