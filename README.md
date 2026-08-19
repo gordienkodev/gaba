@@ -1,26 +1,28 @@
 # Users Dashboard
 
-Users Dashboard - React-приложение для работы с пользователями.
+Users Dashboard is a React application for working with users.
+
+The application is located in the `dev` branch.
 
 API: [https://dummyjson.com/users](https://dummyjson.com/users)
 
-Документация: [https://dummyjson.com/docs/users](https://dummyjson.com/docs/users)
+Documentation: [https://dummyjson.com/docs/users](https://dummyjson.com/docs/users)
 
-## Запуск
+## Run
 
-Установить зависимости:
+Install dependencies:
 
 ```bash
 npm install
 ```
 
-Запустить dev-сервер:
+Start the development server:
 
 ```bash
 npm run dev
 ```
 
-Собрать проект:
+Build the project:
 
 ```bash
 npm run build
