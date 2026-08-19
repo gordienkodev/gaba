@@ -1,5 +1,7 @@
+import { UsersDashboard } from './components/UsersDashboard/UsersDashboard'
+
 function App() {
-  return null
+  return <UsersDashboard />
 }
 
 export default App
